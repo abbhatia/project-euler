@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cgdecker.projecteuler</groupId>
   <artifactId>project-euler</artifactId>
-  <name>Project Euler</name>
+  <name>Project Euler 1</name>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
     <dependency>
