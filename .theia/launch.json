@@ -2,6 +2,13 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - DepthOfATree",
+         "request": "launch",
+         "mainClass": "com.cgdecker.techlead_algopro.DepthOfATree",
+         "projectName": "project-euler"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - NonDuplicateNumber",
          "request": "launch",
          "mainClass": "com.cgdecker.techlead_algopro.NonDuplicateNumber",
