@@ -4,7 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class NonDuplicateNumber {
-    public static void main(String[] args) {
+    
+        public static void main(String[] args) {
             // System.out.println(singleNumber(new int[]{4, 3, 2, 4, 1, 3, 2}));
             // System.out.println(singleNumber2(new int[]{4, 3, 2, 4, 1, 3, 2}));
             System.out.println(singleNumber2(new int[]{1, 1, 2, 2, 3, 3,4, 5,4,5}));
