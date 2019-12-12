@@ -1,0 +1,18 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - NonDuplicateNumber",
+         "request": "launch",
+         "mainClass": "com.cgdecker.techlead_algopro.NonDuplicateNumber",
+         "projectName": "project-euler"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - ProjectEuler",
+         "request": "launch",
+         "mainClass": "com.cgdecker.projecteuler.ProjectEuler",
+         "projectName": "project-euler"
+      }
+   ]
+}
