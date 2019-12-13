@@ -1,4 +1,4 @@
-package com.cgdecker.techlead_algopro;
+package com.cgdecker.algopro;
 
 import java.util.HashMap;
 import java.util.Map;
