@@ -22,7 +22,7 @@ public class DepthOfATree{
 
     public static int getMaxDepth2(Node node, int depth) {
         if(node == null) return depth;
-        if(node.left == null && node.right == null) return depth + 1;
+        if(node.left == null && node.right == null) return depth + 1 ;
         if(node.left  == null) return getMaxDepth2(node.right, depth + 1);
         if(node.right  == null) return getMaxDepth2(node.left, depth + 1);
         return Math.max(getMaxDepth2(node.left, depth + 1), getMaxDepth2(node.right, depth + 1));
